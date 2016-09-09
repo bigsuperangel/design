@@ -92,3 +92,7 @@ local.properties
 
 .idea/
 
+.gitignore
+build.gradle
+settings.gradle
+src/
